@@ -15,6 +15,6 @@ These products are for sale.
 * Product 1
 * Product 2
 * Product 3
-..* White
-..* Black
-..* Tan
+    - White
+    - Black
+    - Tan
